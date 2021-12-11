@@ -9,3 +9,13 @@ You're good to go!
 
 # TODO's
 - [ ] Keep text's not images.
+
+# Requirements
+
+- pillow module
+- opencv-python module
+
+```cmd
+pip install pillow
+pip install opencv-python
+```
