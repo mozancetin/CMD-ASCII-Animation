@@ -18,6 +18,3 @@ You're good to go!
 pip install pillow
 pip install opencv-python
 ```
-
-# TODO's
-- [ ] Keep text's not images.
