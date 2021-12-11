@@ -7,6 +7,8 @@ Then select option 2 from the menu and select the animation you want to play. Th
 If you want to delete an animation delete it with third option.
 You're good to go!
 
+**You need to start drawToConsole.py**
+
 # Requirements
 
 - pillow module
