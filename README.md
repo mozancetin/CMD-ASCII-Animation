@@ -7,9 +7,6 @@ Then select option 2 from the menu and select the animation you want to play. Th
 If you want to delete an animation delete it with third option.
 You're good to go!
 
-# TODO's
-- [ ] Keep text's not images.
-
 # Requirements
 
 - pillow module
@@ -19,3 +16,6 @@ You're good to go!
 pip install pillow
 pip install opencv-python
 ```
+
+# TODO's
+- [ ] Keep text's not images.
